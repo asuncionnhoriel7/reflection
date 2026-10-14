@@ -1,0 +1,1 @@
+console.log("my reflection during Intrams are so happy because I learned a new things amd enjoyed the activities with my friends.I join also the shut put sports and its so enjoy to play. It was a meaningful experience that taugth me valuable lessons i can use in my daily life.Overall, it was a fun and meaningful experience");
